@@ -18,7 +18,8 @@ This project is a database solution designed to manage and organize data efficie
 
 ## Screenshot or Link to ERD
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/8f8914cd-653f-45cd-8dc0-81ad102cff0b)
+
 
 
 Alternatively, you can view the ERD [here](https://drive.google.com/file/d/11nhJVg3looFSwJPkhiCNZbPK2vo57Ii4/view?usp=sharing).
