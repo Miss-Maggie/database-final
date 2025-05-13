@@ -17,7 +17,9 @@ This project is a database solution designed to manage and organize data efficie
 4. Execute the SQL script to create and populate the database.
 
 ## Screenshot or Link to ERD
-![alt text](image-1.png)
+
+![Uploading image.png…]()
+
 
 Alternatively, you can view the ERD [here](https://drive.google.com/file/d/11nhJVg3looFSwJPkhiCNZbPK2vo57Ii4/view?usp=sharing).
 
